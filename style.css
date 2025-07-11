@@ -48,13 +48,13 @@ main {
     background: #000;
   }
   ::-webkit-scrollbar-thumb {
-    background-color: #aef1f6;
+    background-color: #ac02f5;
     border-radius: 10px;
     border: 2px solid #000;
   }
   body {
     scrollbar-width: thin;
-    scrollbar-color: #aef1f6 #000;
+    scrollbar-color: #ac02f5 #000;
   }
 }
 
@@ -71,7 +71,7 @@ header {
   align-items: center;
   padding: 0 15px;
   z-index: 1000;
-  border-bottom: 2px solid #aef1f6;
+  border-bottom: 2px solid #ac02f5;
 }
 
 .logo img {
@@ -98,7 +98,7 @@ header {
 
 .desktop-nav a,
 .desktop-nav .dropdown > button {
-  color: #aef1f6;
+  color: #ac02f5;
   text-decoration: none;
   padding: 0 15px;
   height: 100%;
@@ -190,7 +190,7 @@ header {
 }
 
 .mobile-menu nav a {
-  color: #aef1f6;
+  color: #ac02f5;
   text-decoration: none;
   font-size: 1.2rem;
   padding: 12px;
@@ -204,8 +204,8 @@ header {
 
 .lang-button {
   background: none;
-  border: 1px solid #aef1f6;
-  color: #aef1f6;
+  border: 1px solid #ac02f5;
+  color: #ac02f5;
   padding: 5px 10px;
   border-radius: 4px;
   cursor: pointer;
@@ -366,7 +366,7 @@ header {
 
 .card-front .details-text {
   font-size: 1rem;
-  color: #aef1f6;
+  color: #ac02f5;
   margin-bottom: 10px;
   margin-top: 40px;
 }
@@ -504,7 +504,7 @@ header {
 
 .testimonial-author {
   margin-top: 0.8rem;
-  color: #aef1f6;
+  color: #ac02f5;
   font-weight: bold;
 }
 
@@ -518,7 +518,7 @@ header {
 
 .contact-top h2 {
   font-size: 3rem;
-  color: #aef1f6; /* Your specified Tiffany blue */
+  color: #ac02f5; /* Your specified Tiffany blue */
   margin-bottom: 25px;
   font-weight: 700;
 }
@@ -553,7 +553,7 @@ header {
 }
 
 .contact-info-box h3 {
-  color: #aef1f6; /* Tiffany blue */
+  color: #ac02f5; /* Tiffany blue */
   font-size: 1.6rem; /* Slightly larger */
   margin-bottom: 15px; /* More space below heading */
   font-weight: 500;
@@ -582,7 +582,7 @@ header {
 
 .contact-map-header h3 {
   font-size: 1.6rem;
-  color: #aef1f6; /* Tiffany blue */
+  color: #ac02f5; /* Tiffany blue */
   margin: 0 0 15px 0; /* More space below */
   font-weight: 500;
 }
@@ -596,7 +596,7 @@ header {
 
 /* Contact Link Styles */
 .contact-link {
-  color: #aef1f6; /* Your Tiffany blue color */
+  color: #ac02f5; /* Your Tiffany blue color */
   text-decoration: none; /* No underline */
   transition: opacity 0.3s ease;
   display: inline-block;
@@ -671,7 +671,7 @@ footer {
 .footer-section h4 {
   margin: 0.5rem 0 0.2rem;
   font-size: 1rem;
-  color: #aef1f6;
+  color: #ac02f5;
 }
 
 .footer-section p,
@@ -829,7 +829,7 @@ footer a:hover {
   }
   .card-front .details-text {
     font-size: 1rem;
-    color: #aef1f6;
+    color: #ac02f5;
     margin-bottom: 10px;
     margin-top: 40px;
   }
